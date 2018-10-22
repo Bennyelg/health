@@ -108,9 +108,9 @@ The interval value is crucial value since it is determine
 how much data to save and how's the availability calculated for the services.
 
 ** Note:
-default 60 simpley means: 60 minutes 
-So, 60 minutes for every 1 minute samples = 60 samples.
-if every sample returned with good health then the availability is 100%.
+Default 60 simply means: 60 minutes.
+The service is sampling the health of the all the registered services every 1 minute.
+
 
 
 # <b> Tests </b>
