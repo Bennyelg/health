@@ -113,6 +113,12 @@ So, 60 minutes for every 1 minute samples = 60 samples.
 if every sample returned with good health then the availability is 100%.
 
 
+# <b> Tests </b>
+
+Tests are very basic and probably not cover all cases. 
+to run the test file just execute it from the `tests` directory.
+
+
 # <b> Deploy </b>
 
 
