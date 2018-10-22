@@ -1,0 +1,36 @@
+{  
+    "service":"bim360-dm",
+    "time":"2018-10-21T14:15:40.656Z",
+    "environment":"production",
+    "status":{  
+       "overall":"GOOD",
+       "active_record":"GOOD",
+       "redis":"GOOD",
+       "last_schema_version":"20181017065415",
+       "db_connection_count":83,
+       "self_machine_connection_count":0,
+       "self_process_connection_count":2,
+       "i18n":{  
+          "en":"Settings",
+          "en-GB":"Settings",
+          "de":"Einstellungen",
+          "es":"Configuración",
+          "fr":"Paramètres",
+          "ja":"設定",
+          "pt-BR":"Configurações",
+          "zh-Hans":"设置",
+          "nl":"Instellingen",
+          "sv":"Inställningar",
+          "hr":"Settings"
+       }
+    },
+    "more_information":"please always refer to detailed health page for system health",
+    "build":{  
+       "revision":"f529671",
+       "deploy_date":"2018-10-19T16:37:45.000+00:00",
+       "assets_revision":"6dca161"
+    },
+    "sid":"dm",
+    "host":"bim360-dm-app-dev-04458630e8531ea06",
+    "request_duration":0.655716941
+ }

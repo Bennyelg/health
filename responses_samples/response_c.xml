@@ -1,0 +1,7 @@
+<HealthCheck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<exception/>
+    <machineName>IP-AC1860D3</machineName>
+    <status>Good</status>
+    <date>2018-10-21T14:20:39.5467387+00:00</date>
+    <build>Api.Staging.10.18.2018.215.release_v23_0_0.b34d90c</build>
+</HealthCheck>
